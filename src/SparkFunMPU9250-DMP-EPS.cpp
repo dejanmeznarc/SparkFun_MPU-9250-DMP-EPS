@@ -15,7 +15,7 @@ SparkFun 9DoF Razor IMU M0
 Supported Platforms:
 - ATSAMD21 (Arduino Zero, SparkFun SAMD21 Breakouts)
 ******************************************************************************/
-#include "SparkFunMPU9250-DMP.h"
+#include "SparkFunMPU9250-DMP-ESP.h"
 #include "MPU9250_RegisterMap.h"
 
 extern "C" {
